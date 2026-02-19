@@ -4,11 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
+# Projects
+
 ## 대표 프로젝트
 
-- **My-Second-Brain** (Private)
-  - Obsidian Vault 기반의 개인 지식 시스템
-  - OpenClaw 자동화(백업/인덱싱/릴리즈 태그/운영 점검)로 “기록 → 연결 → 실행” 루프를 만듭니다.
+### My-Second-Brain (Private)
+
+Obsidian Vault 기반의 개인 지식 시스템입니다.
+
+- **목표**: 검색 가능한 기록 + 자동화된 운영(백업/인덱싱/릴리즈/점검)
+- **운영 원칙**: 성공은 침묵, 실패만 알림 / 민감정보는 [REDACTED]
+
+### 이 블로그 (Public)
+
+- GitHub Pages(Jekyll) 기반 개인 브랜딩 블로그
+- 링크: <https://github.com/dkdleljh/dkdleljh.github.io>
 
 ## GitHub 레포지토리
 
