@@ -1,0 +1,48 @@
+name: Auto-update repository links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'  # every 6 hours
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update repo blocks
+        env:
+          GITHUB_OWNER: dkdleljh
+          # By default GITHUB_TOKEN can read public repos. If you want private repos too,
+          # add a repository secret REPO_PAT (fine-grained PAT with repo read + contents write).
+          REPO_PAT: ${{ secrets.REPO_PAT }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python .github/scripts/update_repos.py
+
+      - name: Commit & push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.md links.md projects.md
+          git commit -m "chore: auto-update repo links"
+          git push

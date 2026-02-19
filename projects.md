@@ -42,3 +42,9 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - 개인 생산성 / 시스템 설계
 - 지식관리(Second Brain)
 - 자동화(DevOps/AgentOps)
+
+## Repository Index (Auto)
+
+<!-- BEGIN AUTO:REPO-LIST -->
+<!-- (auto-generated) -->
+<!-- END AUTO:REPO-LIST -->
