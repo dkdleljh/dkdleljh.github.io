@@ -14,7 +14,18 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
+
+author: Zenith
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/dkdleljh" }
