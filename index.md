@@ -13,13 +13,6 @@ list_title: 최근 글
 - 목표는 “기록 → 연결 → 실행” 루프를 만들고, 매주 조금씩 시스템을 업그레이드하는 것.
 
 
-## Start here
-
-- 온라인 명함: [/links/](/links/)
-- 소개: [/about/](/about/)
-- 프로젝트: [/projects/](/projects/)
-
-
 ## 지금 만들고 있는 것 (GitHub Repos)
 
 ### Public
