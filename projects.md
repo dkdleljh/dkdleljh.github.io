@@ -46,5 +46,11 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 ## Repository Index (Auto)
 
 <!-- BEGIN AUTO:REPO-LIST -->
-<!-- (auto-generated) -->
+### All repositories
+
+- [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Personal blog by Zenith (Public)
+- [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki (Public)
+- [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구 (Public)
+
+<!-- updated: 2026-02-19 10:39 +0000 -->
 <!-- END AUTO:REPO-LIST -->

@@ -16,7 +16,11 @@ list_title: 최근 글
 ## 지금 만들고 있는 것
 
 <!-- BEGIN AUTO:REPOS -->
-<!-- (auto-generated) -->
+- [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Personal blog by Zenith
+- [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki
+- [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
+
+<!-- updated: 2026-02-19 10:39 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
