@@ -3,7 +3,7 @@ layout: home
 list_title: 최근 글
 ---
 
-<span class="chip">Automation</span> <span class="chip">Second Brain</span> <span class="chip">Dev</span>
+<span class="chip">Si Vis Pacem, Para Bellum.</span>
 
 # 기록을 코드처럼, 삶을 시스템처럼.
 
