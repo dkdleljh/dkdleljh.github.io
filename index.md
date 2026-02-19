@@ -23,3 +23,6 @@ list_title: 최근 글
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 자동매매 개인 실험용 봇. 전략 실험/운영 안정화(재시도/알림/로그) 중심.
 - [pyupbit-autotrade](https://github.com/dkdleljh/pyupbit-autotrade) — pyupbit 기반 자동매매 예제/학습 코드. 거래 API 연결/기본 매매 루프/안전장치 패턴을 정리합니다.
 - [Simple_Shooter](https://github.com/dkdleljh/Simple_Shooter) — 게임/그래픽 프로토타입. 입력/충돌/루프 등 기본 게임플레이 구조를 빠르게 실험합니다.
+
+<!-- posts-spacer -->
+<div style="height: 48px"></div>
