@@ -1,0 +1,20 @@
+title: Zenith
+email: ""
+description: >-
+  개인 브랜딩 블로그 — 생각, 기록, 그리고 자동화.
+baseurl: ""
+url: "https://dkdleljh.github.io"
+# github_username: dkdleljh
+
+theme: minima
+
+minima:
+  skin: auto
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
