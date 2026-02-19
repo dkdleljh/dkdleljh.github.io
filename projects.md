@@ -13,16 +13,16 @@ permalink: /projects/
 ## GitHub 레포지토리
 
 ### Public (링크)
-- [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — 개인 브랜딩 블로그
-- [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki)
-- [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector)
+- [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — GitHub Pages 기반 개인 브랜딩 블로그
+- [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — 특정 주제(인물) 중심 위키/문서화 프로젝트
+- [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
 
 ### Private (이름만)
-- kis-orb-vwap-bot
-- My-Second-Brain
-- upbit_bot
-- Simple_Shooter
-- pyupbit-autotrade
+- kis-orb-vwap-bot — 트레이딩 자동화 실험(ORB/VWAP 전략)
+- My-Second-Brain — 개인 지식 저장소(Obsidian) + 무인 자동화 운영
+- upbit_bot — 업비트 자동매매 봇(개인 실험)
+- Simple_Shooter — 게임/그래픽 프로토타입
+- pyupbit-autotrade — pyupbit 기반 자동매매 예제/학습 코드
 
 ## 관심 분야
 
