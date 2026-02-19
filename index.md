@@ -15,4 +15,23 @@ list_title: 최근 글
 
 ## 지금 만들고 있는 것
 
-요즘은 GitHub에서 여러 프로젝트를 동시에 만지작거리고 있어요 — 개인 브랜딩 블로그(**dkdleljh.github.io**)를 운영하면서, 위키/문서화 프로젝트(**goyoonjung-wiki**)와 수집 자동화 도구(**goyoonjung_photo_collector**)도 같이 개선 중입니다. 또한 개인 지식 시스템(**My-Second-Brain**)을 중심으로 트레이딩 자동화 실험(**kis-orb-vwap-bot**, **upbit_bot**, **pyupbit-autotrade**), 그리고 가벼운 게임/그래픽 프로토타입(**Simple_Shooter**)까지 확장하면서 “기록 → 연결 → 실행” 루프를 계속 다듬고 있습니다. (일부 레포는 Private이라 권한 없이 접근하면 보이지 않을 수 있어요.)
+### Public
+
+- [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — GitHub Pages 기반 개인 브랜딩 블로그
+- [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — 특정 주제(인물) 중심 위키/문서화 프로젝트
+- [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
+
+
+### Private (names only)
+
+> 참고: Private 레포는 권한이 없으면 링크를 눌러도 접근할 수 없습니다.
+
+- [**My-Second-Brain**](https://github.com/dkdleljh/My-Second-Brain) — Obsidian Vault 기반 개인 지식 시스템. OpenClaw로 백업/인덱싱/릴리즈 태깅/헬스체크까지 무인 운영합니다.
+
+- [**kis-orb-vwap-bot**](https://github.com/dkdleljh/kis-orb-vwap-bot) — 트레이딩 자동화 실험: ORB(Opening Range Breakout) + VWAP 기반 조건/리스크 관리 로직을 연구합니다.
+
+- [**upbit_bot**](https://github.com/dkdleljh/upbit_bot) — 업비트 자동매매 개인 실험용 봇. 전략 실험/운영 안정화(재시도/알림/로그) 중심.
+
+- [**pyupbit-autotrade**](https://github.com/dkdleljh/pyupbit-autotrade) — pyupbit 기반 자동매매 예제/학습 코드. 거래 API 연결/기본 매매 루프/안전장치 패턴을 정리합니다.
+
+- [**Simple_Shooter**](https://github.com/dkdleljh/Simple_Shooter) — 게임/그래픽 프로토타입. 입력/충돌/루프 등 기본 게임플레이 구조를 빠르게 실험합니다.
