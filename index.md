@@ -15,16 +15,11 @@ list_title: 최근 글
 
 ## 지금 만들고 있는 것
 
-### Public
 
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — GitHub Pages 기반 개인 브랜딩 블로그
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — 특정 주제(인물) 중심 위키/문서화 프로젝트
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
 
-
-### Private (names only)
-
-> 참고: Private 레포는 권한이 없으면 링크를 눌러도 접근할 수 없습니다.
 
 - [**My-Second-Brain**](https://github.com/dkdleljh/My-Second-Brain) — Obsidian Vault 기반 개인 지식 시스템. OpenClaw로 백업/인덱싱/릴리즈 태깅/헬스체크까지 무인 운영합니다.
 
