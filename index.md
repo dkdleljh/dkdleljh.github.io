@@ -20,7 +20,7 @@ list_title: 최근 글
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
 
-<!-- updated: 2026-02-21 02:47 +0000 -->
+<!-- updated: 2026-02-21 07:01 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
