@@ -26,7 +26,7 @@ permalink: /links/
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
 
-<!-- updated: 2026-02-22 03:16 +0000 -->
+<!-- updated: 2026-02-22 07:06 +0000 -->
 <!-- END AUTO:REPOS -->
 
 ## 연락
