@@ -24,6 +24,9 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 
 ### Public (링크)
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — GitHub Pages 기반 개인 브랜딩 블로그
+- [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇
+- [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — 페어봇: Adaptive Volatility Breakout (KODEX ETF 페어)
+- [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇(paper/backtest/live)
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — 특정 주제(인물) 중심 위키/문서화 프로젝트
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
 
@@ -32,8 +35,6 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 > 참고: Private 레포는 권한이 없으면 링크를 눌러도 접근할 수 없습니다.
 
 - [My-Second-Brain](https://github.com/dkdleljh/My-Second-Brain) — 개인 지식 저장소(Obsidian) + 무인 자동화 운영
-- [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — 트레이딩 자동화 실험(ORB/VWAP 전략)
-- [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 자동매매 봇(개인 실험)
 - [Simple_Shooter](https://github.com/dkdleljh/Simple_Shooter) — 게임/그래픽 프로토타입
 - [pyupbit-autotrade](https://github.com/dkdleljh/pyupbit-autotrade) — pyupbit 기반 자동매매 예제/학습 코드
 
@@ -51,6 +52,9 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Personal blog by Zenith (Public)
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki (Public)
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구 (Public)
+- [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇 (Public)
+- [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs (Public)
+- [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) (Public)
 
-<!-- updated: 2026-02-24 07:16 +0000 -->
+<!-- updated: 2026-02-24 19:44 +0900 -->
 <!-- END AUTO:REPO-LIST -->

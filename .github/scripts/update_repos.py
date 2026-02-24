@@ -49,6 +49,12 @@ def normalize_desc(name, desc):
         return '특정 주제(인물) 중심 위키/문서화 프로젝트'
     if 'collector' in low:
         return '사진/이미지 수집·정리 자동화 도구'
+    if low in ('kis-orb-vwap-bot','kis_orb_vwap_bot') or 'orb' in low:
+        return 'KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇'
+    if low in ('upbit_bot','upbit-bot') or 'upbit' in low:
+        return '업비트 현물 자동매매 봇 (paper/backtest/live)'
+    if 'adaptive_vb' in low or 'pairbot' in low:
+        return '페어봇: KIS Adaptive Volatility Breakout (KODEX ETF 페어)'
     return '설명 업데이트 예정'
 
 
