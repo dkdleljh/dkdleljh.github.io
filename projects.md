@@ -56,5 +56,5 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs (Public) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.02.24-1934)
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) (Public) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.02.24-1934)
 
-<!-- updated: 2026-02-26 13:43 +0000 -->
+<!-- updated: 2026-02-26 19:10 +0000 -->
 <!-- END AUTO:REPO-LIST -->
