@@ -23,7 +23,7 @@ list_title: 최근 글
 - [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.02.24-1934)
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.02.24-1934)
 
-<!-- updated: 2026-03-03 03:13 +0000 -->
+<!-- updated: 2026-03-03 07:11 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
