@@ -52,9 +52,10 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Personal blog by Zenith (Public)
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki (Public)
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구 (Public) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/goyoonjung_photo_collector/releases/tag/v2026.02.24-1934)
-- [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇 (Public) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/kis-orb-vwap-bot/releases/tag/v2026.02.24-1934)
-- [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs (Public) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.02.24-1934)
-- [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) (Public) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.02.24-1934)
+- [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇 (Public) · 최신 릴리즈: [v2026.03.07-2118](https://github.com/dkdleljh/kis-orb-vwap-bot/releases/tag/v2026.03.07-2118)
+- [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs (Public) · 최신 릴리즈: [v2026.03.07-2108](https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.03.07-2108)
+- [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) (Public) · 최신 릴리즈: [v2026.03.07-2159](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159)
+- [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정 (Public)
 
-<!-- updated: 2026-03-07 06:58 +0000 -->
+<!-- updated: 2026-03-07 13:08 +0000 -->
 <!-- END AUTO:REPO-LIST -->
