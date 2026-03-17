@@ -25,7 +25,7 @@ list_title: 최근 글
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) · 최신 릴리즈: [v2026.03.07-2159](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159)
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정
 
-<!-- updated: 2026-03-17 07:18 +0000 -->
+<!-- updated: 2026-03-17 13:52 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
