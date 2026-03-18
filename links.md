@@ -33,7 +33,7 @@ permalink: /links/
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) · 최신 릴리즈: [v2026.03.07-2159](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159)
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정
 
-<!-- updated: 2026-03-18 07:17 +0000 -->
+<!-- updated: 2026-03-18 13:53 +0000 -->
 <!-- END AUTO:REPOS -->
 
 ## 연락
