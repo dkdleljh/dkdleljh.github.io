@@ -59,6 +59,7 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - [Synapse_Engine](https://github.com/dkdleljh/Synapse_Engine) — Synapse Engine - 시나리오 평가 및 패치 생성 CLI 도구 (Public)
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) (Public) · 최신 릴리즈: [v2026.03.07-2159](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159)
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정 (Public)
+- [wedding-expo-scraper](https://github.com/dkdleljh/wedding-expo-scraper) — 광주광역시 웨딩박람회 일정 자동 업데이트 프로그램 (Public)
 
-<!-- updated: 2026-03-22 07:08 +0000 -->
+<!-- updated: 2026-03-22 13:13 +0000 -->
 <!-- END AUTO:REPO-LIST -->
