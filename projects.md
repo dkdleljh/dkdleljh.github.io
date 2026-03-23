@@ -50,6 +50,7 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 ### All repositories
 
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Personal blog by Zenith (Public)
+- [autonomous_open_problem_lab](https://github.com/dkdleljh/autonomous_open_problem_lab) — 완전 무인 자동화 수학 난제 수집·탐색·검증·논문화 시스템 (Public)
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki (Public)
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구 (Public) · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/goyoonjung_photo_collector/releases/tag/v2026.02.24-1934)
 - [HAF9_Studio](https://github.com/dkdleljh/HAF9_Studio) — Holozyme Architecture Fabric - 프로그래밍 가능한 공간 운영 체제 (Public)
@@ -62,5 +63,5 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정 (Public)
 - [wedding-expo-scraper](https://github.com/dkdleljh/wedding-expo-scraper) — 광주광역시 웨딩박람회 일정 자동 업데이트 프로그램 (Public)
 
-<!-- updated: 2026-03-24 00:37 +0900 -->
+<!-- updated: 2026-03-24 00:41 +0900 -->
 <!-- END AUTO:REPO-LIST -->
