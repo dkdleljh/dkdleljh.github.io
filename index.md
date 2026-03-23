@@ -24,11 +24,12 @@ list_title: 최근 글
 - [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇 · 최신 릴리즈: [v2026.03.07-2118](https://github.com/dkdleljh/kis-orb-vwap-bot/releases/tag/v2026.03.07-2118)
 - [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs · 최신 릴리즈: [v2026.03.07-2108](https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.03.07-2108)
 - [Synapse_Engine](https://github.com/dkdleljh/Synapse_Engine) — Synapse Engine - 시나리오 평가 및 패치 생성 CLI 도구
+- [universe-live](https://github.com/dkdleljh/universe-live) — 관측 가능한 우주를 웹에서 탐색할 수 있는 3D 플랫폼
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) · 최신 릴리즈: [v2026.03.07-2159](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159)
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정
 - [wedding-expo-scraper](https://github.com/dkdleljh/wedding-expo-scraper) — 광주광역시 웨딩박람회 일정 자동 업데이트 프로그램
 
-<!-- updated: 2026-03-23 13:49 +0000 -->
+<!-- updated: 2026-03-24 00:37 +0900 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
