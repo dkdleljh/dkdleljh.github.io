@@ -30,8 +30,9 @@ list_title: 최근 글
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정
 - [wedding-expo-scraper](https://github.com/dkdleljh/wedding-expo-scraper) — 광주광역시 웨딩박람회 일정 자동 업데이트 프로그램
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 설명 업데이트 예정
+- [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap
 
-<!-- updated: 2026-03-28 13:18 +0000 -->
+<!-- updated: 2026-03-28 19:00 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
