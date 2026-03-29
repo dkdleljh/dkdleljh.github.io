@@ -24,6 +24,8 @@ list_title: 최근 글
 - [HermesForge](https://github.com/dkdleljh/HermesForge) — HermesForge - 가능역(Possibility Field) 엔진
 - [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇 · 최신 릴리즈: [v2026.03.07-2118](https://github.com/dkdleljh/kis-orb-vwap-bot/releases/tag/v2026.03.07-2118)
 - [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs · 최신 릴리즈: [v2026.03.07-2108](https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.03.07-2108)
+- [rabbit-skater](https://github.com/dkdleljh/rabbit-skater) — 설명 업데이트 예정
+- [rabbit-skater-v3](https://github.com/dkdleljh/rabbit-skater-v3) — 설명 업데이트 예정
 - [Synapse_Engine](https://github.com/dkdleljh/Synapse_Engine) — Synapse Engine - 시나리오 평가 및 패치 생성 CLI 도구
 - [universe-live](https://github.com/dkdleljh/universe-live) — 관측 가능한 우주를 웹에서 탐색할 수 있는 3D 플랫폼
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) · 최신 릴리즈: [v2026.03.07-2159](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159)
@@ -32,7 +34,7 @@ list_title: 최근 글
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 설명 업데이트 예정
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap
 
-<!-- updated: 2026-03-29 03:34 +0000 -->
+<!-- updated: 2026-03-29 05:23 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
