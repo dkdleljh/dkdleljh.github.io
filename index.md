@@ -1,6 +1,5 @@
 ---
 layout: home
-list_title: 최근 글
 ---
 
 <span class="chip">Si Vis Pacem, Para Bellum.</span>
