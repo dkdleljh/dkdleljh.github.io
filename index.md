@@ -35,10 +35,10 @@ layout: home
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live)
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정
 - [wedding-expo-scraper](https://github.com/dkdleljh/wedding-expo-scraper) — 광주광역시 웨딩박람회 일정 자동 업데이트 프로그램
-- [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 설명 업데이트 예정
+- [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 웨딩 준비 전 과정을 관리하는 한국어 기반 웨딩 준비 SaaS
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap
 
-<!-- updated: 2026-03-29 05:30 +0000 -->
+<!-- updated: 2026-03-29 05:31 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
