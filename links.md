@@ -21,6 +21,11 @@ permalink: /links/
 
 ## 지금 만들고 있는 것
 
+### 최근 추가한 게임 프로젝트
+
+- [rabbit-skater](https://github.com/dkdleljh/rabbit-skater) — Rabbit Skater 안드로이드 게임 배포 패키지 저장소입니다. APK와 AAB 파일을 직접 확인할 수 있습니다.
+- [rabbit-skater-v3](https://github.com/dkdleljh/rabbit-skater-v3) — Rabbit Skater v3 안드로이드 게임의 소스코드, 에셋, 개발 문서를 모아 둔 저장소입니다.
+
 <!-- BEGIN AUTO:REPOS -->
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Personal blog by Zenith
 - [autonomous_open_problem_lab](https://github.com/dkdleljh/autonomous_open_problem_lab) — 완전 무인 자동화 수학 난제 수집·탐색·검증·논문화 시스템
