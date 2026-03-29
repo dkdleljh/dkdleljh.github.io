@@ -38,7 +38,7 @@ permalink: /links/
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 설명 업데이트 예정
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap
 
-<!-- updated: 2026-03-28 19:00 +0000 -->
+<!-- updated: 2026-03-29 03:34 +0000 -->
 <!-- END AUTO:REPOS -->
 
 ## 연락
