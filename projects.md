@@ -67,5 +67,5 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 설명 업데이트 예정 (Public)
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap (Public)
 
-<!-- updated: 2026-03-29 05:23 +0000 -->
+<!-- updated: 2026-03-29 05:27 +0000 -->
 <!-- END AUTO:REPO-LIST -->
