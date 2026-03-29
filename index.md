@@ -23,22 +23,22 @@ layout: home
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Personal blog by Zenith
 - [autonomous_open_problem_lab](https://github.com/dkdleljh/autonomous_open_problem_lab) — 완전 무인 자동화 수학 난제 수집·탐색·검증·논문화 시스템
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — goyoonjung-wiki
-- [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구 · 최신 릴리즈: [v2026.02.24-1934](https://github.com/dkdleljh/goyoonjung_photo_collector/releases/tag/v2026.02.24-1934)
+- [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 사진/이미지 수집·정리 자동화 도구
 - [HAF9_Studio](https://github.com/dkdleljh/HAF9_Studio) — Holozyme Architecture Fabric - 프로그래밍 가능한 공간 운영 체제
 - [HermesForge](https://github.com/dkdleljh/HermesForge) — HermesForge - 가능역(Possibility Field) 엔진
-- [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇 · 최신 릴리즈: [v2026.03.07-2118](https://github.com/dkdleljh/kis-orb-vwap-bot/releases/tag/v2026.03.07-2118)
-- [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs · 최신 릴리즈: [v2026.03.07-2108](https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.03.07-2108)
+- [kis-orb-vwap-bot](https://github.com/dkdleljh/kis-orb-vwap-bot) — KIS 기반 자동매매(ORB/VWAP) — KR/US 모듈형 트레이딩 봇
+- [kis_adaptive_vb_bot](https://github.com/dkdleljh/kis_adaptive_vb_bot) — PairBot: KIS Adaptive Volatility Breakout for KODEX ETF pairs
 - [rabbit-skater](https://github.com/dkdleljh/rabbit-skater) — Rabbit Skater 안드로이드 게임 배포 패키지 저장소 (APK/AAB)
 - [rabbit-skater-v3](https://github.com/dkdleljh/rabbit-skater-v3) — Rabbit Skater v3 안드로이드 게임 소스코드 및 에셋 저장소
 - [Synapse_Engine](https://github.com/dkdleljh/Synapse_Engine) — Synapse Engine - 시나리오 평가 및 패치 생성 CLI 도구
 - [universe-live](https://github.com/dkdleljh/universe-live) — 관측 가능한 우주를 웹에서 탐색할 수 있는 3D 플랫폼
-- [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) · 최신 릴리즈: [v2026.03.07-2159](https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159)
+- [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live)
 - [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정
 - [wedding-expo-scraper](https://github.com/dkdleljh/wedding-expo-scraper) — 광주광역시 웨딩박람회 일정 자동 업데이트 프로그램
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 설명 업데이트 예정
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap
 
-<!-- updated: 2026-03-29 05:27 +0000 -->
+<!-- updated: 2026-03-29 05:30 +0000 -->
 <!-- END AUTO:REPOS -->
 
 <!-- posts-spacer -->
