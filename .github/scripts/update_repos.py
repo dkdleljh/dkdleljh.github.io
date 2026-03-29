@@ -61,20 +61,6 @@ def normalize_desc(name, desc):
     return "설명 업데이트 예정"
 
 
-def latest_release(owner: str, repo: str):
-    """Return (tag_name, html_url) for latest release if exists, else None."""
-    try:
-        r = gh_get(f"{API}/repos/{owner}/{repo}/releases/latest")
-        data = r.json()
-        tag = data.get("tag_name")
-        url = data.get("html_url")
-        if tag and url:
-            return str(tag), str(url)
-    except Exception:
-        return None
-    return None
-
-
 def build_home_block(repos):
     # Only include selected repos (pin-set) first, then rest (optional)
     # For now: include all non-archived, non-fork, owned.
@@ -89,18 +75,7 @@ def build_home_block(repos):
         private = r.get("private", False)
         desc = normalize_desc(name, r.get("description"))
 
-        rel = None
-        # Only decorate a few repos with release link (keep API calls bounded)
-        if name in {
-            "kis-orb-vwap-bot",
-            "upbit_bot",
-            "goyoonjung_photo_collector",
-            "kis_adaptive_vb_bot",
-            "universe-live",
-        }:
-            rel = latest_release(OWNER, name)
-
-        items.append((name, url, desc, private, rel))
+        items.append((name, url, desc, private))
 
     # sort: blog repo first, then by name
     def key(t):
@@ -112,12 +87,8 @@ def build_home_block(repos):
     items.sort(key=key)
 
     lines = []
-    for name, url, desc, private, rel in items:
-        if rel:
-            tag, rurl = rel
-            lines.append(f"- [{name}]({url}) — {desc} · 최신 릴리즈: [{tag}]({rurl})")
-        else:
-            lines.append(f"- [{name}]({url}) — {desc}")
+    for name, url, desc, private in items:
+        lines.append(f"- [{name}]({url}) — {desc}")
 
     ts = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %z")
     lines.append("")
@@ -136,29 +107,14 @@ def build_projects_block(repos):
         private = r.get("private", False)
         desc = normalize_desc(name, r.get("description"))
 
-        rel = None
-        if name in {
-            "kis-orb-vwap-bot",
-            "upbit_bot",
-            "goyoonjung_photo_collector",
-            "kis_adaptive_vb_bot",
-        }:
-            rel = latest_release(OWNER, name)
-
-        items.append((name, url, desc, private, rel))
+        items.append((name, url, desc, private))
 
     items.sort(key=lambda t: (0 if t[0] == f"{OWNER}.github.io" else 1, t[0].lower()))
 
     lines = ["### All repositories", ""]
-    for name, url, desc, private, rel in items:
+    for name, url, desc, private in items:
         vis = "Private" if private else "Public"
-        if rel:
-            tag, rurl = rel
-            lines.append(
-                f"- [{name}]({url}) — {desc} ({vis}) · 최신 릴리즈: [{tag}]({rurl})"
-            )
-        else:
-            lines.append(f"- [{name}]({url}) — {desc} ({vis})")
+        lines.append(f"- [{name}]({url}) — {desc} ({vis})")
 
     ts = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %z")
     lines += ["", "<!-- updated: %s -->" % ts]
