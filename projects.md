@@ -62,10 +62,10 @@ Obsidian Vault 기반의 개인 지식 시스템입니다.
 - [Synapse_Engine](https://github.com/dkdleljh/Synapse_Engine) — Synapse Engine - 시나리오 평가 및 패치 생성 CLI 도구 (Public)
 - [universe-live](https://github.com/dkdleljh/universe-live) — 관측 가능한 우주를 웹에서 탐색할 수 있는 3D 플랫폼 (Public)
 - [upbit_bot](https://github.com/dkdleljh/upbit_bot) — 업비트 현물 자동매매 봇 (paper/backtest/live) (Public)
-- [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — 설명 업데이트 예정 (Public)
+- [UptimeGuardian](https://github.com/dkdleljh/UptimeGuardian) — Go 기반 업타임 모니터링 및 전환 기반 웹훅 알림 서비스 (Public)
 - [wedding-expo-scraper](https://github.com/dkdleljh/wedding-expo-scraper) — 광주광역시 웨딩박람회 일정 자동 업데이트 프로그램 (Public)
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 웨딩 준비 전 과정을 관리하는 한국어 기반 웨딩 준비 SaaS (Public)
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap (Public)
 
-<!-- updated: 2026-03-29 05:31 +0000 -->
+<!-- updated: 2026-03-29 05:33 +0000 -->
 <!-- END AUTO:REPO-LIST -->
