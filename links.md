@@ -45,7 +45,7 @@ permalink: /links/
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 웨딩 준비 전 과정을 관리하는 한국어 기반 웨딩 준비 SaaS
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap
 
-<!-- updated: 2026-04-19 03:49 +0000 -->
+<!-- updated: 2026-04-19 07:45 +0000 -->
 <!-- END AUTO:REPOS -->
 
 ## 연락
