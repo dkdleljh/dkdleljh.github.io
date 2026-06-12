@@ -102,5 +102,5 @@ GitHub Pages와 Jekyll 기반으로 운영하는 개인 브랜딩 사이트입�
 - [WeddingFlow](https://github.com/dkdleljh/WeddingFlow) — 웨딩 준비 전 과정을 관리하는 한국어 기반 웨딩 준비 SaaS (Public)
 - [WeddingMap](https://github.com/dkdleljh/WeddingMap) — 전국 예식장 비교·분석 플랫폼 WeddingMap (Public)
 
-<!-- updated: 2026-06-12 15:39 +0000 -->
+<!-- updated: 2026-06-12 20:25 +0000 -->
 <!-- END AUTO:REPO-LIST -->
