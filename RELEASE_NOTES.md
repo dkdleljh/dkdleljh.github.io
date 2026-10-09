@@ -1,10 +1,13 @@
-# dkdleljh.github.io v1.0.0
+# dkdleljh.github.io v1.0.1
 
 발행 기준: 2026-10-10
 
 Zenith의 프로젝트 포트폴리오 — 공개 저장소 설명·버전·릴리즈를 자동 갱신하는 GitHub Pages 사이트
 
 ## 변경사항
+
+- 게시된 프로그램 버전을 최종 카탈로그에 반영하고 갱신일을 한국 시간으로 표시합니다.
+- 카탈로그와 로컬 동기화의 운영 방법을 README에 추가했습니다.
 
 - 공개 저장소 설명·버전·릴리즈 링크·소스 갱신일을 단일 카탈로그에서 생성합니다.
 - 6시간 자동 갱신과 Jekyll 빌드·Pages 배포를 하나의 워크플로우로 연결했습니다.
@@ -19,5 +22,5 @@ Zenith의 프로젝트 포트폴리오 — 공개 저장소 설명·버전·릴�
 ## 소스와 이력
 
 - 저장소: https://github.com/dkdleljh/dkdleljh.github.io
-- 릴리즈: https://github.com/dkdleljh/dkdleljh.github.io/releases/tag/v1.0.0
+- 릴리즈: https://github.com/dkdleljh/dkdleljh.github.io/releases/tag/v1.0.1
 - 기존 릴리즈와 태그는 보존합니다. 운영 환경 설정과 인증정보는 배포 대상에 포함하지 않습니다.

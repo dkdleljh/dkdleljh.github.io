@@ -29,7 +29,7 @@ python3 -m unittest discover -s tests -v
 <!-- BEGIN RELEASE STATUS -->
 ## 최신 배포 정보
 
-- 저장소 버전: `v1.0.0`
+- 저장소 버전: `v1.0.1`
 - [변경사항과 검증 범위](RELEASE_NOTES.md)
 - [GitHub 릴리즈](https://github.com/dkdleljh/dkdleljh.github.io/releases/latest)
 <!-- END RELEASE STATUS -->
