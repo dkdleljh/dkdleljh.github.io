@@ -1,0 +1,71 @@
+{
+  "dkdleljh.github.io": {
+    "development_date": "2026-02-19",
+    "first_commit": "c39617ce444084cd32776cc26be2da9b5b7fffb7"
+  },
+  "autonomous_open_problem_lab": {
+    "development_date": "2026-03-23",
+    "first_commit": "2086a32e74775ba5392110258561ec6a34703c61"
+  },
+  "goyoonjung-wiki": {
+    "development_date": "2026-02-08",
+    "first_commit": "a98fcde7e68fd17433a866bfc462e5c388fe2833"
+  },
+  "goyoonjung_photo_collector": {
+    "development_date": "2026-02-17",
+    "first_commit": "a43eed8ff1ac70fd409b1aef087b68234bd04d42"
+  },
+  "HAF9_Studio": {
+    "development_date": "2026-03-16",
+    "first_commit": "132501959269336f154f2c1e8d04c88ef8379a0f"
+  },
+  "HermesForge": {
+    "development_date": "2026-03-18",
+    "first_commit": "569b8ac3376d7e046bf371c1894708f5c4045711"
+  },
+  "kis-orb-vwap-bot": {
+    "development_date": "2026-02-16",
+    "first_commit": "f3c361cf0e8ef4f8e5d0e3e14f9c982828d53c60"
+  },
+  "kis_adaptive_vb_bot": {
+    "development_date": "2026-02-24",
+    "first_commit": "515c28cb5ed1cd49655a3c23cd70e58c5da2ae3d"
+  },
+  "rabbit-skater": {
+    "development_date": "2026-03-29",
+    "first_commit": "56a1e3216eb521963b0d106b1b6ebc7537fe41a9",
+    "date_note": "배포 파일 보관소의 기록 시작일입니다. 게임 자체의 개발 시작일과 다를 수 있습니다."
+  },
+  "rabbit-skater-v3": {
+    "development_date": "2026-03-29",
+    "first_commit": "a7d88db596131a6f43a5058d085da51b96001cfa"
+  },
+  "Synapse_Engine": {
+    "development_date": "2026-03-18",
+    "first_commit": "6df3d875ffee7c24861d68e6d345ac0112be085f"
+  },
+  "universe-live": {
+    "development_date": "2026-03-24",
+    "first_commit": "8a352091b4ebebfa957b1d14d939d6b6d7529cbd"
+  },
+  "upbit_bot": {
+    "development_date": "2026-02-14",
+    "first_commit": "f17bde66a9999bc2d57355ffad16cf19c9b103ca"
+  },
+  "UptimeGuardian": {
+    "development_date": "2026-03-07",
+    "first_commit": "0f8687da4dfd0c9413b82645a50c95f6e2cdddf5"
+  },
+  "wedding-expo-scraper": {
+    "development_date": "2026-03-22",
+    "first_commit": "229594c0e7150a0d1fc016c89c7c1e4dcb35abe3"
+  },
+  "WeddingFlow": {
+    "development_date": "2026-03-28",
+    "first_commit": "661afcda0fbc7ed50a4a9737a94a7d9990b058b0"
+  },
+  "WeddingMap": {
+    "development_date": "2026-03-29",
+    "first_commit": "a71f0c2a3e7d6df21bd89b77958c870b7edc2ad6"
+  }
+}

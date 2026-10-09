@@ -1,6 +1,5 @@
 """Build the public project catalog from GitHub. No private metadata is emitted."""
 import argparse
-import html
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import json
@@ -43,19 +42,25 @@ def public_projects(repos):
                   key=lambda r: (r['name'] != f'{OWNER}.github.io', r['name'].lower()))
 
 
-def md(text):
-    return html.escape(str(text)).replace('[', '&#91;').replace(']', '&#93;').replace('\n', ' ')
-
-
-def replace_block(text, begin, end, block):
-    if text.count(begin) != 1 or text.count(end) != 1:
-        raise ValueError('Expected exactly one pair of catalog markers')
-    before, rest = text.split(begin)
-    _, after = rest.split(end)
-    return before + begin + '\n' + block + '\n' + end + after
+def project_history(name, histories):
+    history = histories.get(name)
+    if not history:
+        return {'development_date': None, 'first_commit_url': None, 'date_note': None}
+    development_date = history['development_date']
+    if datetime.strptime(development_date, '%Y-%m-%d').date().isoformat() != development_date:
+        raise ValueError(f'Invalid development date: {name}')
+    sha = history['first_commit']
+    if not re.fullmatch(r'[0-9a-f]{40}', sha):
+        raise ValueError(f'Invalid first commit: {name}')
+    return {
+        'development_date': development_date,
+        'first_commit_url': f'https://github.com/{OWNER}/{name}/commit/{sha}',
+        'date_note': history.get('date_note'),
+    }
 
 
 def build_catalog():
+    histories = json.loads((ROOT / '_data/project_history.json').read_text())
     repos = []
     page = 1
     while True:
@@ -69,6 +74,7 @@ def build_catalog():
         release = gh_get(f"repos/{OWNER}/{repo['name']}/releases/latest", optional=True)
         records.append({
             'name': repo['name'], 'url': repo['html_url'],
+            **project_history(repo['name'], histories),
             'description': repo.get('description') or '프로젝트 설명은 저장소 README를 참고하세요.',
             'language': repo.get('language') or '문서 / 자료',
             'version': release['tag_name'] if release else None,
@@ -86,20 +92,13 @@ def main():
     parser.add_argument('--check', action='store_true')
     args = parser.parse_args()
     records = build_catalog()
-    lines = []
-    for r in records:
-        version = f" · [릴리즈 {md(r['version'])}]({r['release_url']})" if r['version'] else ' · 릴리즈 미등록'
-        lines.append(f"- [{md(r['name'])}]({r['url']}) — {md(r['description'])}{version}")
     updates = {ROOT / '_data/projects.json': json.dumps(records, ensure_ascii=False, indent=2) + '\n'}
-    for filename in ['index.md', 'links.md']:
-        path = ROOT / filename
-        updates[path] = replace_block(path.read_text(), '<!-- BEGIN AUTO:REPOS -->', '<!-- END AUTO:REPOS -->', '\n'.join(lines))
     changed = [str(p.relative_to(ROOT)) for p, body in updates.items() if not p.exists() or p.read_text() != body]
     if args.check:
         if changed:
             raise SystemExit('Catalog is stale: ' + ', '.join(changed))
         return
-    # All API calls and marker validations succeed before any file is replaced.
+    # All API calls and history validations succeed before any file is replaced.
     for path, body in updates.items():
         path.parent.mkdir(parents=True, exist_ok=True)
         temporary = path.with_name(path.name + '.tmp')

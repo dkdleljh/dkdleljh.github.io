@@ -14,16 +14,27 @@ class CatalogTests(unittest.TestCase):
                  dict(public, owner={'login': 'someone-else'}), {'name': 'unknown'}]
         self.assertEqual(catalog.public_projects(cases), [public])
 
-    def test_failed_markers_do_not_silently_discard_page(self):
-        with self.assertRaises(ValueError):
-            catalog.replace_block('a BEGIN b', 'BEGIN', 'END', 'new')
-        with self.assertRaises(ValueError):
-            catalog.replace_block('BEGIN END BEGIN END', 'BEGIN', 'END', 'new')
-        self.assertEqual(catalog.replace_block('a BEGIN old END z', 'BEGIN', 'END', 'new'), 'a BEGIN\nnew\nEND z')
+    def test_unknown_history_does_not_invent_a_development_date(self):
+        self.assertEqual(catalog.project_history('new-repo', {}), {
+            'development_date': None, 'first_commit_url': None, 'date_note': None,
+        })
 
-    def test_description_cannot_inject_html_or_markdown_links(self):
-        self.assertNotIn('<script>', catalog.md('<script>[x](bad)\ntext'))
-        self.assertNotIn('[x]', catalog.md('<script>[x](bad)\ntext'))
+    def test_history_retains_evidence_and_archive_note(self):
+        history = {'development_date': '2026-03-29', 'first_commit': 'a' * 40,
+                   'date_note': '배포 파일 보관소의 기록 시작일'}
+        result = catalog.project_history('example', {'example': history})
+        self.assertEqual(result['development_date'], '2026-03-29')
+        self.assertEqual(result['first_commit_url'],
+                         f'https://github.com/{catalog.OWNER}/example/commit/' + 'a' * 40)
+        self.assertEqual(result['date_note'], history['date_note'])
+
+    def test_invalid_dates_and_commit_ids_are_rejected(self):
+        for date, sha in [('2026-02-30', 'a' * 40), ('2026-3-1', 'a' * 40),
+                          ('2026-03-01', '../../invalid'), ('2026-03-01', 'a' * 7)]:
+            with self.subTest(date=date, sha=sha), self.assertRaises(ValueError):
+                catalog.project_history('example', {'example': {
+                    'development_date': date, 'first_commit': sha,
+                }})
 
 
 if __name__ == '__main__':
