@@ -22,7 +22,7 @@ layout: home
 <!-- BEGIN AUTO:REPOS -->
 - [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Zenith의 프로젝트 포트폴리오 — 공개 저장소 설명·버전·릴리즈를 자동 갱신하는 GitHub Pages 사이트 · 릴리즈 미등록
 - [autonomous_open_problem_lab](https://github.com/dkdleljh/autonomous_open_problem_lab) — 수학 난제 후보 수집·반례 탐색·검증·형식화 초안·논문 패키지를 연결하는 연구 자동화 파이프라인 · [릴리즈 v0.1.5](https://github.com/dkdleljh/autonomous_open_problem_lab/releases/tag/v0.1.5)
-- [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — 배우 고윤정의 작품·일정·공식 출처를 정리하고 근거 점검·문서 생성·릴리즈를 자동화하는 링크 위키 · [릴리즈 v1.58.0](https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.58.0)
+- [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — 배우 고윤정의 작품·일정·공식 출처를 정리하고 근거 점검·문서 생성·릴리즈를 자동화하는 링크 위키 · [릴리즈 v1.58.1](https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.58.1)
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 공개 소스의 고윤정 사진을 수집하고 SHA-256 중복 제거·해상도 검사·SQLite 이력을 관리하는 Python 도구 · [릴리즈 v2026.02.24-1934](https://github.com/dkdleljh/goyoonjung_photo_collector/releases/tag/v2026.02.24-1934)
 - [HAF9_Studio](https://github.com/dkdleljh/HAF9_Studio) — 자연어 의도를 2D 공간 모델의 변경 후보로 변환하고 제약·대피 경로·감사 기록을 검증하는 시뮬레이션 MVP · [릴리즈 v0.1.0](https://github.com/dkdleljh/HAF9_Studio/releases/tag/v0.1.0)
 - [HermesForge](https://github.com/dkdleljh/HermesForge) — Evidence·조건 패치·스냅샷으로 가능성 시나리오를 생성하고 NOT_FACT 표시를 적용하는 시뮬레이션 MVP · [릴리즈 v0.1.0](https://github.com/dkdleljh/HermesForge/releases/tag/v0.1.0)

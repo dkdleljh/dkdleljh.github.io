@@ -3,7 +3,7 @@
     "name": "dkdleljh.github.io",
     "url": "https://github.com/dkdleljh/dkdleljh.github.io",
     "description": "Zenith의 프로젝트 포트폴리오 — 공개 저장소 설명·버전·릴리즈를 자동 갱신하는 GitHub Pages 사이트",
-    "language": "SCSS",
+    "language": "Python",
     "version": null,
     "release_url": "https://github.com/dkdleljh/dkdleljh.github.io/releases",
     "release_date": null,
@@ -24,9 +24,9 @@
     "url": "https://github.com/dkdleljh/goyoonjung-wiki",
     "description": "배우 고윤정의 작품·일정·공식 출처를 정리하고 근거 점검·문서 생성·릴리즈를 자동화하는 링크 위키",
     "language": "Python",
-    "version": "v1.58.0",
-    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.58.0",
-    "release_date": "2026-06-26",
+    "version": "v1.58.1",
+    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.58.1",
+    "release_date": "2026-10-09",
     "source_date": "2026-10-09"
   },
   {
@@ -107,7 +107,7 @@
     "version": "v0.1.0",
     "release_url": "https://github.com/dkdleljh/Synapse_Engine/releases/tag/v0.1.0",
     "release_date": "2026-03-18",
-    "source_date": "2026-03-18"
+    "source_date": "2026-10-09"
   },
   {
     "name": "universe-live",
@@ -117,7 +117,7 @@
     "version": null,
     "release_url": "https://github.com/dkdleljh/universe-live/releases",
     "release_date": null,
-    "source_date": "2026-03-23"
+    "source_date": "2026-10-09"
   },
   {
     "name": "upbit_bot",
@@ -127,7 +127,7 @@
     "version": "v2026.03.07-2159",
     "release_url": "https://github.com/dkdleljh/upbit_bot/releases/tag/v2026.03.07-2159",
     "release_date": "2026-03-07",
-    "source_date": "2026-05-30"
+    "source_date": "2026-10-09"
   },
   {
     "name": "UptimeGuardian",
@@ -137,7 +137,7 @@
     "version": "v1.1.1",
     "release_url": "https://github.com/dkdleljh/UptimeGuardian/releases/tag/v1.1.1",
     "release_date": "2026-03-07",
-    "source_date": "2026-03-07"
+    "source_date": "2026-10-09"
   },
   {
     "name": "wedding-expo-scraper",
@@ -147,7 +147,7 @@
     "version": "v4.0.1",
     "release_url": "https://github.com/dkdleljh/wedding-expo-scraper/releases/tag/v4.0.1",
     "release_date": "2026-03-28",
-    "source_date": "2026-04-02"
+    "source_date": "2026-10-09"
   },
   {
     "name": "WeddingFlow",
@@ -157,7 +157,7 @@
     "version": "v1.0.0",
     "release_url": "https://github.com/dkdleljh/WeddingFlow/releases/tag/v1.0.0",
     "release_date": "2026-03-28",
-    "source_date": "2026-03-28"
+    "source_date": "2026-10-09"
   },
   {
     "name": "WeddingMap",
@@ -167,6 +167,6 @@
     "version": "v0.1.1",
     "release_url": "https://github.com/dkdleljh/WeddingMap/releases/tag/v0.1.1",
     "release_date": "2026-03-28",
-    "source_date": "2026-03-28"
+    "source_date": "2026-10-09"
   }
 ]
