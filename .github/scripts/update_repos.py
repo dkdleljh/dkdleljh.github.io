@@ -1,6 +1,8 @@
 """Build the public project catalog from GitHub. No private metadata is emitted."""
 import argparse
 import html
+from datetime import datetime
+from zoneinfo import ZoneInfo
 import json
 import os
 from pathlib import Path
@@ -71,8 +73,8 @@ def build_catalog():
             'language': repo.get('language') or '문서 / 자료',
             'version': release['tag_name'] if release else None,
             'release_url': release['html_url'] if release else repo['html_url'] + '/releases',
-            'release_date': release['published_at'][:10] if release else None,
-            'source_date': repo['pushed_at'][:10],
+            'release_date': datetime.fromisoformat(release['published_at'].replace('Z', '+00:00')).astimezone(ZoneInfo('Asia/Seoul')).date().isoformat() if release else None,
+            'source_date': datetime.fromisoformat(repo['pushed_at'].replace('Z', '+00:00')).astimezone(ZoneInfo('Asia/Seoul')).date().isoformat(),
         })
     if not records:
         raise RuntimeError('Refusing to replace catalog with an empty repository list')
