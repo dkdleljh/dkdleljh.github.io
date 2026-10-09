@@ -27,7 +27,7 @@ permalink: /links/
 - [rabbit-skater-v3](https://github.com/dkdleljh/rabbit-skater-v3) — Rabbit Skater v3 안드로이드 게임의 소스코드, 에셋, 개발 문서를 모아 둔 저장소입니다.
 
 <!-- BEGIN AUTO:REPOS -->
-- [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Zenith의 프로젝트 포트폴리오 — 공개 저장소 설명·버전·릴리즈를 자동 갱신하는 GitHub Pages 사이트 · [릴리즈 v1.0.0](https://github.com/dkdleljh/dkdleljh.github.io/releases/tag/v1.0.0)
+- [dkdleljh.github.io](https://github.com/dkdleljh/dkdleljh.github.io) — Zenith의 프로젝트 포트폴리오 — 공개 저장소 설명·버전·릴리즈를 자동 갱신하는 GitHub Pages 사이트 · [릴리즈 v1.0.1](https://github.com/dkdleljh/dkdleljh.github.io/releases/tag/v1.0.1)
 - [autonomous_open_problem_lab](https://github.com/dkdleljh/autonomous_open_problem_lab) — 수학 난제 후보 수집·반례 탐색·검증·형식화 초안·논문 패키지를 연결하는 연구 자동화 파이프라인 · [릴리즈 v0.1.6](https://github.com/dkdleljh/autonomous_open_problem_lab/releases/tag/v0.1.6)
 - [goyoonjung-wiki](https://github.com/dkdleljh/goyoonjung-wiki) — 배우 고윤정의 작품·일정·공식 출처를 정리하고 근거 점검·문서 생성·릴리즈를 자동화하는 링크 위키 · [릴리즈 v1.58.2](https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.58.2)
 - [goyoonjung_photo_collector](https://github.com/dkdleljh/goyoonjung_photo_collector) — 공개 소스의 고윤정 사진을 수집하고 SHA-256 중복 제거·해상도 검사·SQLite 이력을 관리하는 Python 도구 · [릴리즈 v2026.10.10.1](https://github.com/dkdleljh/goyoonjung_photo_collector/releases/tag/v2026.10.10.1)
