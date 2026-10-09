@@ -8,9 +8,6 @@ url: "https://dkdleljh.github.io"
 
 theme: minima
 
-minima:
-  skin: auto
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -35,3 +32,9 @@ header_pages:
   - links.md
   - projects.md
   - about.md
+
+exclude:
+  - tests
+  - RELEASE_NOTES.md
+  - VERSION
+  - README.md
