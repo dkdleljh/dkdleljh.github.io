@@ -33,10 +33,10 @@
     "date_note": null,
     "description": "배우 고윤정의 작품·일정·관련 정보를 공식 출처 링크와 함께 정리하는 위키입니다. 문서 포털 생성, 근거 및 자동화 상태 점검, 변경 이력과 릴리즈 발행을 자동화합니다.",
     "language": "Python",
-    "version": "v1.58.2",
-    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.58.2",
-    "release_date": "2026-10-10",
-    "source_date": "2026-10-10"
+    "version": "v1.68.0",
+    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.68.0",
+    "release_date": "2026-10-12",
+    "source_date": "2026-10-12"
   },
   {
     "name": "goyoonjung_photo_collector",
@@ -50,6 +50,19 @@
     "release_url": "https://github.com/dkdleljh/goyoonjung_photo_collector/releases/tag/v2026.10.10.1",
     "release_date": "2026-10-10",
     "source_date": "2026-10-10"
+  },
+  {
+    "name": "goyounjung",
+    "url": "https://github.com/dkdleljh/goyounjung",
+    "development_date": null,
+    "first_commit_url": null,
+    "date_note": null,
+    "description": "고윤정 작품·인터뷰·활동 아카이브 — goyoonjung-wiki 자동 동기화",
+    "language": "Astro",
+    "version": null,
+    "release_url": "https://github.com/dkdleljh/goyounjung/releases",
+    "release_date": null,
+    "source_date": "2026-10-12"
   },
   {
     "name": "HAF9_Studio",
