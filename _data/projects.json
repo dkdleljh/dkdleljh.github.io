@@ -46,8 +46,8 @@
     "date_note": null,
     "description": "배우 고윤정의 작품·일정·관련 정보를 공식 출처 링크와 함께 정리하는 위키입니다. 문서 포털 생성, 근거 및 자동화 상태 점검, 변경 이력과 릴리즈 발행을 자동화합니다.",
     "language": "Python",
-    "version": "v1.175.12",
-    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.175.12",
+    "version": "v1.176.77",
+    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.176.77",
     "release_date": "2026-10-25",
     "source_date": "2026-10-25"
   },
