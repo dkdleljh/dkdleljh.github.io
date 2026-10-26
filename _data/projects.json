@@ -46,10 +46,10 @@
     "date_note": null,
     "description": "배우 고윤정의 작품·일정·관련 정보를 공식 출처 링크와 함께 정리하는 위키입니다. 문서 포털 생성, 근거 및 자동화 상태 점검, 변경 이력과 릴리즈 발행을 자동화합니다.",
     "language": "Python",
-    "version": "v1.187.103",
-    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.187.103",
-    "release_date": "2026-10-26",
-    "source_date": "2026-10-26"
+    "version": "v1.193.11",
+    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.193.11",
+    "release_date": "2026-10-27",
+    "source_date": "2026-10-27"
   },
   {
     "name": "goyoonjung_photo_collector",
@@ -153,7 +153,7 @@
     "version": "v3.0.1",
     "release_url": "https://github.com/dkdleljh/rabbit-skater-v3/releases/tag/v3.0.1",
     "release_date": "2026-10-10",
-    "source_date": "2026-10-10"
+    "source_date": "2026-10-26"
   },
   {
     "name": "Synapse_Engine",
