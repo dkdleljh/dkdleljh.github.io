@@ -46,8 +46,8 @@
     "date_note": null,
     "description": "배우 고윤정의 작품·일정·관련 정보를 공식 출처 링크와 함께 정리하는 위키입니다. 문서 포털 생성, 근거 및 자동화 상태 점검, 변경 이력과 릴리즈 발행을 자동화합니다.",
     "language": "Python",
-    "version": "v1.229.17",
-    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.229.17",
+    "version": "v1.232.14",
+    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.232.14",
     "release_date": "2026-10-31",
     "source_date": "2026-10-31"
   },
@@ -128,6 +128,19 @@
     "release_url": "https://github.com/dkdleljh/kis_adaptive_vb_bot/releases/tag/v2026.10.10.1",
     "release_date": "2026-10-10",
     "source_date": "2026-10-10"
+  },
+  {
+    "name": "limitbar",
+    "url": "https://github.com/dkdleljh/limitbar",
+    "development_date": null,
+    "first_commit_url": null,
+    "date_note": null,
+    "description": "Windows 트레이에서 Codex / ChatGPT Work의 잔여 한도를 확인하는 C# 도구. 단기·주간 표시, 초기화 카운트다운, 중복 방지 알림, 상세 한국어 문서 제공.",
+    "language": "C#",
+    "version": null,
+    "release_url": "https://github.com/dkdleljh/limitbar/releases",
+    "release_date": null,
+    "source_date": "2026-10-31"
   },
   {
     "name": "rabbit-skater",
