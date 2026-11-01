@@ -46,8 +46,8 @@
     "date_note": null,
     "description": "배우 고윤정의 작품·일정·관련 정보를 공식 출처 링크와 함께 정리하는 위키입니다. 문서 포털 생성, 근거 및 자동화 상태 점검, 변경 이력과 릴리즈 발행을 자동화합니다.",
     "language": "Python",
-    "version": "v1.235.6",
-    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.235.6",
+    "version": "v1.243.25",
+    "release_url": "https://github.com/dkdleljh/goyoonjung-wiki/releases/tag/v1.243.25",
     "release_date": "2026-11-01",
     "source_date": "2026-11-01"
   },
@@ -75,7 +75,7 @@
     "version": null,
     "release_url": "https://github.com/dkdleljh/goyounjung/releases",
     "release_date": null,
-    "source_date": "2026-10-19"
+    "source_date": "2026-11-01"
   },
   {
     "name": "HAF9_Studio",
@@ -141,6 +141,19 @@
     "release_url": "https://github.com/dkdleljh/limitbar/releases",
     "release_date": null,
     "source_date": "2026-10-31"
+  },
+  {
+    "name": "pocket-quiet",
+    "url": "https://github.com/dkdleljh/pocket-quiet",
+    "development_date": null,
+    "first_commit_url": null,
+    "date_note": null,
+    "description": "Local adaptive fan control for GPD Pocket 4 on Windows: presets, thermal safeguards, recovery watchdog, and Korean documentation.",
+    "language": "C#",
+    "version": null,
+    "release_url": "https://github.com/dkdleljh/pocket-quiet/releases",
+    "release_date": null,
+    "source_date": "2026-11-01"
   },
   {
     "name": "rabbit-skater",
