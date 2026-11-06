@@ -10,7 +10,20 @@
     "version": "v1.0.2",
     "release_url": "https://github.com/dkdleljh/dkdleljh.github.io/releases/tag/v1.0.2",
     "release_date": "2026-10-10",
-    "source_date": "2026-11-05"
+    "source_date": "2026-11-06"
+  },
+  {
+    "name": "Atlas_Investment",
+    "url": "https://github.com/dkdleljh/Atlas_Investment",
+    "development_date": null,
+    "first_commit_url": null,
+    "date_note": null,
+    "description": "한국·미국 주식/ETF 연구·백테스트·모의 운용·위험 관리와 명시적 승인 게이트를 제공하는 투자 연구 프로젝트",
+    "language": "Python",
+    "version": "v0.1.1",
+    "release_url": "https://github.com/dkdleljh/Atlas_Investment/releases/tag/v0.1.1",
+    "release_date": "2026-10-10",
+    "source_date": "2026-10-10"
   },
   {
     "name": "autonomous_open_problem_lab",
@@ -75,7 +88,7 @@
     "version": null,
     "release_url": "https://github.com/dkdleljh/goyounjung/releases",
     "release_date": null,
-    "source_date": "2026-11-05"
+    "source_date": "2026-11-06"
   },
   {
     "name": "HAF9_Studio",
